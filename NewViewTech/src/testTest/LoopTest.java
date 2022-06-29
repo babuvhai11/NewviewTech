@@ -28,8 +28,10 @@ public class LoopTest {
 				break;
 			}
 			System.out.println(i);
+			System.out.println("Testing the new branch");
 		}
-		//System.out.println("I am out side of the loop");
+		System.out.println("I am out side of the loop");
 	}
+
 
 }
